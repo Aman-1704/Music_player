@@ -1,3 +1,5 @@
+Hosted Link: https://aman-1704.github.io/Music_player/
+
 Music Player Project:
      This is a web development project that serves as a music player similar to Spotify. The project is created using HTML and CSS, with plans to incorporate 
      JavaScript in the future.
